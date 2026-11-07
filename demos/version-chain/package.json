@@ -1,0 +1,7 @@
+{
+  "name": "version-chain-demo",
+  "private": true,
+  "type": "module",
+  "scripts": { "demo": "node demo.mjs" },
+  "dependencies": { "firebase-admin": "^13.0.0" }
+}
